@@ -1,3 +1,3 @@
 # git-test
-Odin project beginnings
+Odin project beginnings\n
 Hello Odin!
